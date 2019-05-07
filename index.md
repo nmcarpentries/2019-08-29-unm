@@ -638,7 +638,7 @@ please preview your site before committing, and make sure to run
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
 <div>
-  <h3>Acknolwdgment</h3>
+  <h3>Acknowledgment</h3>
   <p>This workshop is funded through the National Science Foundation EPSCoR Cooperative Agreement OIA-1757207. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
   </p>
   <img src="./assets/img/RII4_LOGO_EPSCoR-01.png" alt="NM EPSCoR Logo" width="300">&nbsp;&nbsp;
