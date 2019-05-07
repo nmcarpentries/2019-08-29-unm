@@ -191,6 +191,12 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
+<p>
+  <strong>Registration:</strong>
+  Please go to <a href="https://www.nmepscor.org/events/software-carpentry-workshop">NM EPSCoR's registration page</a>. 
+  The deadline for registering is May 24.
+</p>
+
 <hr/>
 
 {% comment %} 
