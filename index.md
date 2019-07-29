@@ -3,16 +3,16 @@ layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"      # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "University of New Mexico"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Room 210, Center for Teaching and Learning (CTLB), 1 University of New Mexico, Albuquerque, NM"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Room 335, CERIA, 1 University of New Mexico, Albuquerque, NM"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "US"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "EN"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "35.085714, -106.619838"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "May 30-31. 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "August 29-30. 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-05-30      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-05-31        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Jon Wheeler", "Karl Benedict"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: [Renee Brown, Nitin Bhandari, Matthew Fricke]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+startdate: 2019-08-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-08-30       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Jon Wheeler", "Mark Servilla"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: [Karl Benedict, Nitin Bhandari]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["jwheel01@unm.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  https://docs.google.com/document/d/1DA3-zQx_IqIQpWBrOe-0Pouo7IXC7_qutHFXqeLZZYA/edit?usp=sharing           # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
