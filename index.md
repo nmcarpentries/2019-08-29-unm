@@ -193,8 +193,7 @@ Display the contact email address set in the configuration file.
 
 <p>
   <strong>Registration:</strong>
-  Please go to <a href="https://www.nmepscor.org/events/software-carpentry-workshop-unm">NM EPSCoR's registration page</a>. 
-  The deadline for registering is August 21. There is a registration cap of 25 attendees, but we will have a waiting list. Lunch will be provided both days, so please let us know when registering about any dietary   restrictions.
+  Registration for this event is closed.
 </p>
 
 <hr/>
